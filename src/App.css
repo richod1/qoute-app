@@ -1,0 +1,11 @@
+.head{
+  
+  background: linear-gradient(teal,powderblue);
+  display:flex;
+  align-self:center;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+  border:1px solid #ccc;
+  border-radius:15px;
+}
